@@ -1,0 +1,6 @@
+ipykernel
+matplotlib
+numpy
+plotly
+nbformat
+scipy
